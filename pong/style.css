@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 2px rgb(248, 248, 248) solid;
+  margin-left: 30%;
+  margin-top:10%;
+  letter-spacing: 1;
+}
